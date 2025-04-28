@@ -1,5 +1,5 @@
 ## NAME : NAVEEN KUMAR T
-## REG NO :
+## REG NO : 212223220067
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h3>Name: </h3>
 <h3>Register Number:     </h3>
@@ -56,7 +56,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-Program :
+## Program :
 ```
 from collections import defaultdict
 
